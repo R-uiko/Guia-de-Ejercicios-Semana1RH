@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author VirY
+ * @author Rodrigo Enrique Herrera Solorzano 256423
  */
 public class Factorial {
     public static void main(String[] args) {
@@ -30,3 +30,4 @@ public class Factorial {
         entrada.close();
     }
 }
+
