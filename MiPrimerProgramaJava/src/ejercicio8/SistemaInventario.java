@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author VirY
+ * @author Rodrigo Enrique Herrera Solorzano 256423
  */
 public class SistemaInventario {
     public static void main(String[] args) {
@@ -95,3 +95,4 @@ class Producto {
         return String.format("%s | Precio: $%.2f | Cantidad: %d", nombre, precio, cantidad);
     }
 }
+
