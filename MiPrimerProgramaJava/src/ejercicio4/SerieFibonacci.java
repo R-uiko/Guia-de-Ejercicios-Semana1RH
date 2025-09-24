@@ -7,7 +7,7 @@ package ejercicio4;
 import java.util.Scanner;
 /**
  *
- * @author VirY
+ * @author Rodrigo Enrique Herrera Solorzano 256423
  */
 public class SerieFibonacci {
     
@@ -34,3 +34,4 @@ public class SerieFibonacci {
         entrada.close();
     }
 }
+
