@@ -1,2 +1,2 @@
-# Guia-de-Ejercicios-Semana1RH
-lo de las semana 1 RH
+# java-semana1-ejercicios-intermedios 
+lo de las semana 1 RH 256423
