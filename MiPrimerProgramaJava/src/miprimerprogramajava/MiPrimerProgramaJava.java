@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class MiPrimerProgramaJava {
 
     /**
+     * Rodrigo Enrique Herrera Solorzano 256423
      * @param args the command line arguments
      */
     public static void main(String[] args) {
@@ -45,3 +46,4 @@ public class MiPrimerProgramaJava {
     }
     
 }
+
