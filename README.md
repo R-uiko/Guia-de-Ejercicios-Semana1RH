@@ -1,2 +1,2 @@
 # java-semana1-ejercicios-intermedios 
-lo de las semana 1 RH 256423
+Rodrigo Enrique Herrera Solorzano 256423  
